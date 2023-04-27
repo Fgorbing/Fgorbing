@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Fgorbing
-- 👀 I’m interested in  aprender programaçao
-- 🌱 I’m currently  fazendo ocurso  CC50.
+- 👀 I’m interested in aprender 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
